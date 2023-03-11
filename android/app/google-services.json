@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21210767430",
+    "project_id": "chat-fa877",
+    "storage_bucket": "chat-fa877.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21210767430:android:8f7943658e77484d5fea47",
+        "android_client_info": {
+          "package_name": "com.example.bakcends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21210767430-h2e4l25m8bs7ov2pht3f6ahbjv8p2kta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUwDAx8Pq1u3EaODXz1Pkjei_umjtN6ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21210767430-h2e4l25m8bs7ov2pht3f6ahbjv8p2kta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
